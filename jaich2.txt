@@ -1,0 +1,1 @@
+El número máximo de colores no puede ser mayor de 4

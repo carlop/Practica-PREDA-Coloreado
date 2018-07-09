@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=traza
+comment0.target=ColoreadoGrafos(java.lang.Boolean)
+comment0.text=\r\n\ Constructor\r\n
+comment1.params=grafo\ m\ k\ v\ exito
+comment1.target=java.lang.Boolean\ coloreaGrafo(int[][],\ int,\ int,\ int[],\ java.lang.Boolean)
+comment1.text=\r\n\ Realiza\ el\ coloreado\ del\ grafo\r\n\ @param\ grafo\ Matriz\ de\ adyacencia\ que\ representa\ al\ grafo\r\n\ @param\ m\ \ \ \ \ N\u00FAmero\ m\u00E1ximo\ de\ colores\ a\ utilizar\r\n\ @param\ k\ \ \ \ \ Nivel\ del\ grafo\ a\ explorar\r\n\ @param\ v\ \ \ \ \ Vector\ con\ las\ soluciones\ al\ problema\r\n\ @param\ exito\ Establece\ si\ ha\ habido\ exito\ en\ la\ exploraci\u00F3n\ anterior\r\n
+comment2.params=grafo\ v\ k
+comment2.target=boolean\ completable(int[][],\ int[],\ int)
+comment2.text=\r\n\ \ Comprueba\ si\ un\ color\ es\ v\u00E1lido\r\n\ \ @param\ grafo\ Matriz\ de\ adyacencia\ que\ representa\ al\ grafo\r\n\ \ @param\ v\ \ \ \ \ Vector\ con\ la\ soluci\u00F3n\ al\ problema\r\n\ \ @param\ k\ \ \ \ \ Nivel\r\n
+comment3.params=v
+comment3.target=java.lang.String\ imprimeSolucion(int[])
+comment3.text=\r\n\ Imprime\ la\ soluci\u00F3n\ al\ problema\r\n\ @param\ v\ Vector\ con\ la\ soluci\u00F3n\ al\ problema\r\n\ @return\ Imprime\ la\ soluci\u00F3n\ al\ problema\r\n
+comment4.params=
+comment4.target=java.lang.String\ imprimeNoSolucion()
+comment4.text=\r\n\ Imprime\ que\ no\ hay\ soluci\u00F3n\ al\ problema\r\n\ @return\ Imprime\ que\ no\ hay\ soluci\u00F3n\ al\ problema\r\n
+comment5.params=m\ n
+comment5.target=java.lang.String\ imprimeCabeceraTraza(int,\ int)
+comment5.text=\r\n\ Imprime\ la\ cabecera\ de\ la\ traza\r\n\ @param\ m\ N\u00FAmero\ de\ colores\ a\ utilizar\ en\ el\ problema\r\n\ @param\ n\ N\u00FAmero\ de\ nodos\ del\ grafo\ del\ problema\r\n\ @return\ Cabecera\ de\ la\ traza\r\n
+comment6.params=texto
+comment6.target=void\ generaTraza(java.lang.String)
+comment6.text=\r\n\ Imprime\ el\ contenido\ de\ la\ traza\r\n\ @param\ texto\ Texto\ a\ imprimir\ con\ la\ traza\r\n
+comment7.params=v
+comment7.target=java.lang.String\ imprimeVector(int[])
+comment7.text=\r\n\ Imprime\ el\ vector\ soluci\u00F3n\r\n\ @param\ v\ vector\ con\ las\ soluciones\ parciales\ al\ problema\r\n\ @return\ vector\ con\ las\ soluciones\ parciales\ en\ un\ string\ para\ imprimir\r\n
+numComments=8

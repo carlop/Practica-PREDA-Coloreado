@@ -1,0 +1,8 @@
+
+La solución al problema es:
+1 Amarillo
+2 Verde
+3 Rojo
+4 Verde
+5 Azul
+6 Verde

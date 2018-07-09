@@ -1,0 +1,12 @@
+
+La solución al problema es:
+1 Amarillo
+2 Verde
+3 Rojo
+4 Verde
+5 Azul
+6 Verde
+7 Amarillo
+8 Verde
+9 Amarillo
+10 Verde
